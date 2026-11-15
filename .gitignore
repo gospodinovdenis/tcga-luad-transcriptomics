@@ -1,0 +1,17 @@
+# Python and notebooks
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.py[cod]
+.venv/
+.env
+# Downloaded data and scratch
+downloads/
+scratch/
+raw/
+*.fastq
+*.bam
+*.cram
+*.tsv.gz
+*.zip
+# Retain curated small tables and figures already tracked.

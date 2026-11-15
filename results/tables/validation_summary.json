@@ -1,0 +1,13 @@
+{
+  "external_dataset": "GSE32863",
+  "matched_genes": 11431,
+  "tcga_significant_mapped": 2600,
+  "direction_concordance": 0.9234615384615384,
+  "direction_concordance_n": 2401,
+  "external_replication_fraction": 0.7926923076923077,
+  "spearman_rho_all_matched": 0.6786586001688071,
+  "spearman_p": 0.0,
+  "direction_binomial_p": 0.0,
+  "pathways_evaluated": 20,
+  "pathways_replicated": 20
+}
